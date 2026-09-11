@@ -1,3 +1,5 @@
-hash.bat
+*.bat
+
 SetupClient.exe
+
 *.pdb

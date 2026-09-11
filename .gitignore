@@ -1,6 +1,3 @@
-win-unpacked
-builder-effective-config.yaml
-builder-debug.yml
-HammerClientElectron Setup 1.0.0.exe
-HammerClientElectron Setup 1.0.0.exe.blockmap
 hash.bat
+SetupClient.exe
+*.pdb

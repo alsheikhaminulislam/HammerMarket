@@ -6,3 +6,6 @@ config.yaml
 Proxium.pdb
 sign mapping.bat
 hash.bat
+WebView2Runtime
+WebView2UserData
+TempData

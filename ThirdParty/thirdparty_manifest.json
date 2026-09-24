@@ -1,0 +1,1229 @@
+﻿{
+    "generatedAt": "2026-09-24T22:39:45.7613717+06:00",
+    "baseUrl": "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty",
+    "archives": [
+        {
+            "name": "Audio.zip",
+            "folder": "Audio",
+            "sha256": "b385938d702a3393b5e746b02952db1fd9a34b1eafa5859b46b39cd6b26446ae",
+            "download": "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Audio.zip",
+            "path": "/ThirdParty",
+            "fileCount": 8,
+            "totalSize": 2749553,
+            "contents": [
+                {
+                    "name": "alexzavesa-calm-elegant-logo-519008.mp3",
+                    "sha256": "430a7d796f59055fbc348f0657ac7fd818a6391ccf2a7e54509eadac71a463b6",
+                    "size": 306782,
+                    "path": "/ThirdParty/Audio"
+                },
+                {
+                    "name": "alexzavesa-calm-inspiring-piano-logo-short-version-518990.mp3",
+                    "sha256": "5735ee446855aa3f1e6f389aef491085dd5d450572e26b37b271393874e30e30",
+                    "size": 257462,
+                    "path": "/ThirdParty/Audio"
+                },
+                {
+                    "name": "alexzavesa-calm-inspiring-technology-logo-short-version-518993.mp3",
+                    "sha256": "011e4092d3f422e36688b7da15693709e64ffa9e649b519c3bb7e9406be58c0e",
+                    "size": 340218,
+                    "path": "/ThirdParty/Audio"
+                },
+                {
+                    "name": "arunangshubanerjee-live-football-match-stadium-crowd-cheering-563439.mp3",
+                    "sha256": "bc3612ee2c55126cc01acfd075ab3eb058eecb492c15dea1dccd574c3e0ba25f",
+                    "size": 559872,
+                    "path": "/ThirdParty/Audio"
+                },
+                {
+                    "name": "audiopapkin-sound-design-elements-sfx-ps-022-302865.mp3",
+                    "sha256": "a8be2d7835d35e5fe939d324b7acd40d9c72e765cf2cdd1f729b89337efc7b44",
+                    "size": 387840,
+                    "path": "/ThirdParty/Audio"
+                },
+                {
+                    "name": "diamond_tunes-cinematic-sound-effect-327618.mp3",
+                    "sha256": "45a5f406b159d667e5f93bb29a17524e36870def9b62a7ab8316b504e7e52553",
+                    "size": 335203,
+                    "path": "/ThirdParty/Audio"
+                },
+                {
+                    "name": "soundreality-riser-wildfire-285209.mp3",
+                    "sha256": "123bea708db4b1ee5c4261d567592395fb6ef1adb874fcb11a313794124c0f78",
+                    "size": 384768,
+                    "path": "/ThirdParty/Audio"
+                },
+                {
+                    "name": "viralaudio-descent-whoosh-long-cinematic-sound-effect-405921.mp3",
+                    "sha256": "0a0f3505856fdfa84ac6b86b3c55ccd0ef1eb4ff0907d7b6934002218a73404e",
+                    "size": 177408,
+                    "path": "/ThirdParty/Audio"
+                }
+            ]
+        },
+        {
+            "name": "Fonts.zip",
+            "folder": "Fonts",
+            "sha256": "97e11268a0bc3cb5abd0674212aa0c380442321db568a865606a770b7d06d7fc",
+            "download": "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Fonts.zip",
+            "path": "/ThirdParty",
+            "fileCount": 185,
+            "totalSize": 31567853,
+            "contents": [
+                {
+                    "name": "Hadi (Rounded).ttf",
+                    "sha256": "160430b5937b2c13f4e5a79eaea4d891be060079c8938f5a99b948f6954c780e",
+                    "size": 250300,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi 3D Unicode Italic.ttf",
+                    "sha256": "71cfd3ee5a2188cf00450a41fa732c905c6c48bcebc939e6f2d72df34d504045",
+                    "size": 103868,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi 3D Unicode.ttf",
+                    "sha256": "efb8a91f96fc123154a94e5dce5f75d31cdca506b30065f8e79b1419a43979b0",
+                    "size": 200364,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Matra Unicode Italic.ttf",
+                    "sha256": "b920d0170dd3599af7f21a59aec81f9b980760b304dc504f953721c1864c38b5",
+                    "size": 64924,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Matra Unicode.ttf",
+                    "sha256": "ce13915381257d508f1a48559d7505e4f6d3bcca351afe8292f4900e5300dc05",
+                    "size": 72188,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Rough Unicode Italic.ttf",
+                    "sha256": "f29efc498f6e32c57b034e3ee18f76b2a85f9c70d711037806d633f33a5560da",
+                    "size": 740268,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Rough Unicode.ttf",
+                    "sha256": "fa63a1fd3d8ba3cb6d7240009d1d365455806e8b88ce5b1adfa3109a0939b348",
+                    "size": 741608,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Rounded Unicode Italic.ttf",
+                    "sha256": "8ebc5ec1225646522bc1e66a11118fa73a86442b2fa59e6657ae3d12990386ca",
+                    "size": 150168,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Rounded Unicode.ttf",
+                    "sha256": "06e91624b7a13cba8b3270dccd48f2ee10f99da0e3b0d344828700a4afc48e2e",
+                    "size": 161752,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Sketch Unicode Italic.ttf",
+                    "sha256": "a94cd8e9545f389d3743ad53c6787bee63b207dfe38509ab86a31f1deca549b6",
+                    "size": 1360576,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Sketch Unicode.ttf",
+                    "sha256": "a229bf184913312daeb5f939f7ebd39702ed22789ec6cf2c070932b6a0161800",
+                    "size": 1332204,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Unicode Italic.ttf",
+                    "sha256": "eca916a7933a7d56b70cc67271a4de23c3a4ff1ee9b0777f691b04ca3d597641",
+                    "size": 63828,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi Unicode.ttf",
+                    "sha256": "59bda8d7adcfb8054218cbd369c25760c9c3ed39923b383614ed4ad8536be0fe",
+                    "size": 108332,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi.ttf",
+                    "sha256": "1d040eb1b97bbeee3c9e3200601e76c386660bf17c80b47554edb5b5322779b3",
+                    "size": 102532,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi"
+                },
+                {
+                    "name": "Hadi 3D Unicode Italic.ttf",
+                    "sha256": "71cfd3ee5a2188cf00450a41fa732c905c6c48bcebc939e6f2d72df34d504045",
+                    "size": 103868,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi 3D Unicode.ttf",
+                    "sha256": "efb8a91f96fc123154a94e5dce5f75d31cdca506b30065f8e79b1419a43979b0",
+                    "size": 200364,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Matra Unicode Italic.ttf",
+                    "sha256": "b920d0170dd3599af7f21a59aec81f9b980760b304dc504f953721c1864c38b5",
+                    "size": 64924,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Matra Unicode.ttf",
+                    "sha256": "ce13915381257d508f1a48559d7505e4f6d3bcca351afe8292f4900e5300dc05",
+                    "size": 72188,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Rough Unicode Italic.ttf",
+                    "sha256": "f29efc498f6e32c57b034e3ee18f76b2a85f9c70d711037806d633f33a5560da",
+                    "size": 740268,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Rough Unicode.ttf",
+                    "sha256": "fa63a1fd3d8ba3cb6d7240009d1d365455806e8b88ce5b1adfa3109a0939b348",
+                    "size": 741608,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Rounded Unicode Italic.ttf",
+                    "sha256": "8ebc5ec1225646522bc1e66a11118fa73a86442b2fa59e6657ae3d12990386ca",
+                    "size": 150168,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Rounded Unicode.ttf",
+                    "sha256": "06e91624b7a13cba8b3270dccd48f2ee10f99da0e3b0d344828700a4afc48e2e",
+                    "size": 161752,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Sketch Unicode Italic.ttf",
+                    "sha256": "a94cd8e9545f389d3743ad53c6787bee63b207dfe38509ab86a31f1deca549b6",
+                    "size": 1360576,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Sketch Unicode.ttf",
+                    "sha256": "a229bf184913312daeb5f939f7ebd39702ed22789ec6cf2c070932b6a0161800",
+                    "size": 1332204,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Unicode Italic.ttf",
+                    "sha256": "eca916a7933a7d56b70cc67271a4de23c3a4ff1ee9b0777f691b04ca3d597641",
+                    "size": 63828,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Hadi Unicode.ttf",
+                    "sha256": "59bda8d7adcfb8054218cbd369c25760c9c3ed39923b383614ed4ad8536be0fe",
+                    "size": 108332,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro Hadi/Styles"
+                },
+                {
+                    "name": "Codepotro Abu Sayed.ttf",
+                    "sha256": "77f7884143e86906f718e5ac1700a50d6e52cb94c40e9d2f755ae68a83848b00",
+                    "size": 156988,
+                    "path": "/ThirdParty/Fonts/Bangla/Codepotro-Abu Sayed"
+                },
+                {
+                    "name": "FNArafatNoakhali-Italic.ttf",
+                    "sha256": "3f89eefb5085f7c2465d9128aeb9fb2f4d3d9ddae6ee3ff87115219469361eb8",
+                    "size": 193708,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali"
+                },
+                {
+                    "name": "FNArafatNoakhali-Regular.ttf",
+                    "sha256": "1da54b81532a1abf024cfe61d8950ab2b5bffde41f22a45f90c34b9088cf49c7",
+                    "size": 188328,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali"
+                },
+                {
+                    "name": "FNArafatNoakhaliANSIV1-Italic.ttf",
+                    "sha256": "c3806fe8946cca71202d2fb33a040a00d186487d2a455a31c49ec95bf1918e84",
+                    "size": 187656,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali"
+                },
+                {
+                    "name": "FNArafatNoakhaliANSIV1-Regular.ttf",
+                    "sha256": "b4685def90bbb48976752cebc2966b858ef50c665d0789860650ae6e983e1b11",
+                    "size": 188108,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali"
+                },
+                {
+                    "name": "FNArafatNoakhaliANSIV2-Italic.ttf",
+                    "sha256": "e7b5257a14408138b29bdbdbda3c6221bad16a0647845242d26d1813ce88c349",
+                    "size": 193732,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali"
+                },
+                {
+                    "name": "FNArafatNoakhaliANSIV2-Regular.ttf",
+                    "sha256": "d41af90272036b21ce500d67e44f7df0b172d94a53a1c390dd6aeb0a513fdc9f",
+                    "size": 188092,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali"
+                },
+                {
+                    "name": "FNArafatNoakhali-Italic.ttf",
+                    "sha256": "3f89eefb5085f7c2465d9128aeb9fb2f4d3d9ddae6ee3ff87115219469361eb8",
+                    "size": 193708,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali/FN Arafat Noakhali"
+                },
+                {
+                    "name": "FNArafatNoakhali-Regular.ttf",
+                    "sha256": "1da54b81532a1abf024cfe61d8950ab2b5bffde41f22a45f90c34b9088cf49c7",
+                    "size": 188328,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali/FN Arafat Noakhali"
+                },
+                {
+                    "name": "FNArafatNoakhaliANSIV1-Italic.ttf",
+                    "sha256": "c3806fe8946cca71202d2fb33a040a00d186487d2a455a31c49ec95bf1918e84",
+                    "size": 187656,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali/FN Arafat Noakhali ANSI v1"
+                },
+                {
+                    "name": "FNArafatNoakhaliANSIV1-Regular.ttf",
+                    "sha256": "b4685def90bbb48976752cebc2966b858ef50c665d0789860650ae6e983e1b11",
+                    "size": 188108,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali/FN Arafat Noakhali ANSI v1"
+                },
+                {
+                    "name": "FNArafatNoakhaliANSIV2-Italic.ttf",
+                    "sha256": "e7b5257a14408138b29bdbdbda3c6221bad16a0647845242d26d1813ce88c349",
+                    "size": 193732,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali/FN Arafat Noakhali ANSI v2"
+                },
+                {
+                    "name": "FNArafatNoakhaliANSIV2-Regular.ttf",
+                    "sha256": "d41af90272036b21ce500d67e44f7df0b172d94a53a1c390dd6aeb0a513fdc9f",
+                    "size": 188092,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Arafat Noakhali/FN Arafat Noakhali ANSI v2"
+                },
+                {
+                    "name": "FNBornobangla-Italic.ttf",
+                    "sha256": "f66e3fc828dc7059972fb28718294c803d44fb7ffc203e26359585d106cc0969",
+                    "size": 82128,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla"
+                },
+                {
+                    "name": "FNBornobangla-Regular.ttf",
+                    "sha256": "5d59e7c2281f8aeee2e6d66b16a1c071d0b851c260af57ff273dc36777eff567",
+                    "size": 80112,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla"
+                },
+                {
+                    "name": "FNBornobanglaANSIV1-Regular(1).ttf",
+                    "sha256": "4548ae6d06620cce49e4a448be7a99065a4755b86123efe1809cbb370bdbf27a",
+                    "size": 69624,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla"
+                },
+                {
+                    "name": "FNBornobanglaANSIV1-Regular.ttf",
+                    "sha256": "51f2413cb6987e294eace29a12fcaa4a070d6a14e6b1d25872568caa3ea31798",
+                    "size": 71412,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla"
+                },
+                {
+                    "name": "FNBornobanglaANSIV2-Italic.ttf",
+                    "sha256": "89d2b653ef50d769af7a4eae2fffe57b4912bd3833f2a64046891cbb5b3da188",
+                    "size": 71644,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla"
+                },
+                {
+                    "name": "FNBornobanglaANSIV2-Regular.ttf",
+                    "sha256": "c9e3f60a98744deacd1b43c8f2362b94e2d582d17ddf37f9a19d9125e25047c2",
+                    "size": 69852,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla"
+                },
+                {
+                    "name": "FNBornobanglaANSIV1-Regular(1).ttf",
+                    "sha256": "4548ae6d06620cce49e4a448be7a99065a4755b86123efe1809cbb370bdbf27a",
+                    "size": 69624,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla/FN Bornobangla Ansi V1"
+                },
+                {
+                    "name": "FNBornobanglaANSIV1-Regular.ttf",
+                    "sha256": "51f2413cb6987e294eace29a12fcaa4a070d6a14e6b1d25872568caa3ea31798",
+                    "size": 71412,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla/FN Bornobangla Ansi V1"
+                },
+                {
+                    "name": "FNBornobanglaANSIV2-Italic.ttf",
+                    "sha256": "89d2b653ef50d769af7a4eae2fffe57b4912bd3833f2a64046891cbb5b3da188",
+                    "size": 71644,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla/FN Bornobangla Ansi V2"
+                },
+                {
+                    "name": "FNBornobanglaANSIV2-Regular.ttf",
+                    "sha256": "c9e3f60a98744deacd1b43c8f2362b94e2d582d17ddf37f9a19d9125e25047c2",
+                    "size": 69852,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla/FN Bornobangla Ansi V2"
+                },
+                {
+                    "name": "FNBornobangla-Italic.ttf",
+                    "sha256": "f66e3fc828dc7059972fb28718294c803d44fb7ffc203e26359585d106cc0969",
+                    "size": 82128,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla/FN Bornobangla Unicode"
+                },
+                {
+                    "name": "FNBornobangla-Regular.ttf",
+                    "sha256": "5d59e7c2281f8aeee2e6d66b16a1c071d0b851c260af57ff273dc36777eff567",
+                    "size": 80112,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Bornobangla/FN Bornobangla Unicode"
+                },
+                {
+                    "name": "FN Mahin Aklima Italic.ttf",
+                    "sha256": "3e2d80cb8ed0d4e7006d42e34cc273fc95bfd592e9a0c898a6a6e8670b1b43e6",
+                    "size": 469636,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Mahin Aklima"
+                },
+                {
+                    "name": "FN Mahin Aklima Regular.ttf",
+                    "sha256": "1317239db0f1df6fc797bcf650d7b80cb0c87f94a62caf76e34a74cd04c762c8",
+                    "size": 444180,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Mahin Aklima"
+                },
+                {
+                    "name": "FN Rakib Bornomala Bijoy2003 Italic.ttf",
+                    "sha256": "c650d0d08f7e5e26d53492fc00f9c16037204dec6ffaeb8ed9ea56c64589cbf0",
+                    "size": 106500,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode"
+                },
+                {
+                    "name": "FN Rakib Bornomala Bijoy2003.otf",
+                    "sha256": "0956e36fc1b50bb5129e3f4dd144a0003fd6efc80bb1404f3af5c39afef95f96",
+                    "size": 102432,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode"
+                },
+                {
+                    "name": "FN Rakib Bornomala Bijoy52 Italic.ttf",
+                    "sha256": "4bd931e0f52bce156d3be788230d562f1b89f8d88f3c7c03440e81428bb480c4",
+                    "size": 104508,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode"
+                },
+                {
+                    "name": "FN Rakib Bornomala Bijoy52.ttf",
+                    "sha256": "da414be16a03cca419d346f7ea345c5ea7bd4c8b555f83a36f6059976bef500b",
+                    "size": 100536,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode"
+                },
+                {
+                    "name": "FN Rakib Bornomala Unicode Italic.otf",
+                    "sha256": "b45f54b7f924acd443dc134b5854e317b4c6085568c2f906e442f6598ec1fa69",
+                    "size": 114668,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode"
+                },
+                {
+                    "name": "FN Rakib Bornomala Unicode.ttf",
+                    "sha256": "799ee35387566cf7b835419ea97f5845b7be2d6796b6f16f16ee255dbad498df",
+                    "size": 111088,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode"
+                },
+                {
+                    "name": "FN Rakib Bornomala Bijoy2003 Italic.ttf",
+                    "sha256": "c650d0d08f7e5e26d53492fc00f9c16037204dec6ffaeb8ed9ea56c64589cbf0",
+                    "size": 106500,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode/Bijoy2003"
+                },
+                {
+                    "name": "FN Rakib Bornomala Bijoy2003.otf",
+                    "sha256": "0956e36fc1b50bb5129e3f4dd144a0003fd6efc80bb1404f3af5c39afef95f96",
+                    "size": 102432,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode/Bijoy2003"
+                },
+                {
+                    "name": "FN Rakib Bornomala Bijoy52 Italic.ttf",
+                    "sha256": "4bd931e0f52bce156d3be788230d562f1b89f8d88f3c7c03440e81428bb480c4",
+                    "size": 104508,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode/Bijoy52"
+                },
+                {
+                    "name": "FN Rakib Bornomala Bijoy52.ttf",
+                    "sha256": "da414be16a03cca419d346f7ea345c5ea7bd4c8b555f83a36f6059976bef500b",
+                    "size": 100536,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode/Bijoy52"
+                },
+                {
+                    "name": "FN Rakib Bornomala Unicode Italic.otf",
+                    "sha256": "b45f54b7f924acd443dc134b5854e317b4c6085568c2f906e442f6598ec1fa69",
+                    "size": 114668,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode/Unicode"
+                },
+                {
+                    "name": "FN Rakib Bornomala Unicode.ttf",
+                    "sha256": "799ee35387566cf7b835419ea97f5845b7be2d6796b6f16f16ee255dbad498df",
+                    "size": 111088,
+                    "path": "/ThirdParty/Fonts/Bangla/FN Rakib Bornomala Unicode/Unicode"
+                },
+                {
+                    "name": "FN Abdullah Momenshahi Ardha Matra Italic.ttf",
+                    "sha256": "3032f96c2e417bd704fac7c40fdb4b2616f48904fde4cd0bebce4162b2e8366e",
+                    "size": 80796,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi"
+                },
+                {
+                    "name": "FN Abdullah Momenshahi Ardha Matra Regular.ttf",
+                    "sha256": "752adadf616e9cdee9c61d11f85260d3979f52b29cc3b8201ce53420ecd3e250",
+                    "size": 76640,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi"
+                },
+                {
+                    "name": "FN Abdullah Momenshahi Purna Matra Italic.ttf",
+                    "sha256": "82eb6264a77e6c7821610f4dd01b2632696dd745e993870b48c47126465d2096",
+                    "size": 81832,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi"
+                },
+                {
+                    "name": "FN Abdullah Momenshahi Purna Matra Regular.ttf",
+                    "sha256": "56f6c4b78d21590e213c2695e901895534e78e774de791c3d952305e3c097796",
+                    "size": 77532,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi"
+                },
+                {
+                    "name": "FN Terms and Conditions.html",
+                    "sha256": "5eadac1d7d68c97015fcf6caf255638c4fa29a6b598e08f9987dbe5c2eac847f",
+                    "size": 50400,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi"
+                },
+                {
+                    "name": "FN Abdullah Momenshahi Ardha Matra Italic.ttf",
+                    "sha256": "3032f96c2e417bd704fac7c40fdb4b2616f48904fde4cd0bebce4162b2e8366e",
+                    "size": 80796,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi/FN Abdullah Momenshahi Ardha Matra"
+                },
+                {
+                    "name": "FN Abdullah Momenshahi Ardha Matra Regular.ttf",
+                    "sha256": "752adadf616e9cdee9c61d11f85260d3979f52b29cc3b8201ce53420ecd3e250",
+                    "size": 76640,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi/FN Abdullah Momenshahi Ardha Matra"
+                },
+                {
+                    "name": "FN Abdullah Momenshahi Purna Matra Italic.ttf",
+                    "sha256": "82eb6264a77e6c7821610f4dd01b2632696dd745e993870b48c47126465d2096",
+                    "size": 81832,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi/FN Abdullah Momenshahi Purna Matra"
+                },
+                {
+                    "name": "FN Abdullah Momenshahi Purna Matra Regular.ttf",
+                    "sha256": "56f6c4b78d21590e213c2695e901895534e78e774de791c3d952305e3c097796",
+                    "size": 77532,
+                    "path": "/ThirdParty/Fonts/Bangla/FNAbdullahMomenshahi/FN Abdullah Momenshahi Purna Matra"
+                },
+                {
+                    "name": "FN Mahin Dui Dashok Italic.ttf",
+                    "sha256": "c9e12a824203835b15aecb37b6ce262950c9d7578ead13a98cb24c2c6908cf27",
+                    "size": 324720,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinDuiDashok"
+                },
+                {
+                    "name": "FN Mahin Dui Dashok Regular.ttf",
+                    "sha256": "59bc9fd6d74a7dab7421d4dd68a55aa06de683006b13457593faa7730332ba71",
+                    "size": 312300,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinDuiDashok"
+                },
+                {
+                    "name": "FN Terms and Conditions.html",
+                    "sha256": "5eadac1d7d68c97015fcf6caf255638c4fa29a6b598e08f9987dbe5c2eac847f",
+                    "size": 50400,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinDuiDashok"
+                },
+                {
+                    "name": "FN Mahin Rafid Book Italic.ttf",
+                    "sha256": "23df023f0f8dddc93570b648c9404adb33ffc9bbec281a6bbb6d209e164b62f1",
+                    "size": 119412,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid"
+                },
+                {
+                    "name": "FN Mahin Rafid Book Regular.ttf",
+                    "sha256": "3f1eddcd430421d400f6d16462b910ba9aed1a48c7e85b04a10a3d5d0e8d6bf8",
+                    "size": 114488,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid"
+                },
+                {
+                    "name": "FN Mahin Rafid Italic.ttf",
+                    "sha256": "98d80ce3c385882359eb130b1312ced0864c2fa89343150ce38da44d58705d1c",
+                    "size": 125900,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid"
+                },
+                {
+                    "name": "FN Mahin Rafid Regular.ttf",
+                    "sha256": "28428842881476fc9c46d00b0d48da896aca410b40ddbfcc763a3b178882fa90",
+                    "size": 121208,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid"
+                },
+                {
+                    "name": "FN Terms and Conditions.html",
+                    "sha256": "5eadac1d7d68c97015fcf6caf255638c4fa29a6b598e08f9987dbe5c2eac847f",
+                    "size": 50400,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid"
+                },
+                {
+                    "name": "FN Mahin Rafid Italic.ttf",
+                    "sha256": "98d80ce3c385882359eb130b1312ced0864c2fa89343150ce38da44d58705d1c",
+                    "size": 125900,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid/FN Mahin Rafid"
+                },
+                {
+                    "name": "FN Mahin Rafid Regular.ttf",
+                    "sha256": "28428842881476fc9c46d00b0d48da896aca410b40ddbfcc763a3b178882fa90",
+                    "size": 121208,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid/FN Mahin Rafid"
+                },
+                {
+                    "name": "FN Mahin Rafid Book Italic.ttf",
+                    "sha256": "23df023f0f8dddc93570b648c9404adb33ffc9bbec281a6bbb6d209e164b62f1",
+                    "size": 119412,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid/FN Mahin Rafid Book"
+                },
+                {
+                    "name": "FN Mahin Rafid Book Regular.ttf",
+                    "sha256": "3f1eddcd430421d400f6d16462b910ba9aed1a48c7e85b04a10a3d5d0e8d6bf8",
+                    "size": 114488,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinRafid/FN Mahin Rafid Book"
+                },
+                {
+                    "name": "FN Mahin Shukran Lipi Italic.ttf",
+                    "sha256": "dae7049d09b7793d1018bf86fcbcde45a165cbc444174e01c94d4f2900773718",
+                    "size": 131884,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinShukranLipi"
+                },
+                {
+                    "name": "FN Mahin Shukran Lipi Regular.ttf",
+                    "sha256": "127fda0f423a0ae9168e5e7ab51f39a49e30de10d913894e643f3d908f06fbfe",
+                    "size": 124928,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinShukranLipi"
+                },
+                {
+                    "name": "Please Read Me.txt",
+                    "sha256": "12191244e837a90783cf3fad35364da76c2b4209a5b7510e08197f1a029e5875",
+                    "size": 540,
+                    "path": "/ThirdParty/Fonts/Bangla/FNMahinShukranLipi"
+                },
+                {
+                    "name": "Insaf.ttf",
+                    "sha256": "c32bc335af712022a16495137bb769f7c7283364adcd1f8e8356577dd6b0b264",
+                    "size": 101200,
+                    "path": "/ThirdParty/Fonts/Bangla/Insaf"
+                },
+                {
+                    "name": "Kalpana ANSI.ttf",
+                    "sha256": "7ffb72a1461fb21d925f95df24148381eb1ce637bbf5c833552d53b6cc947edd",
+                    "size": 64244,
+                    "path": "/ThirdParty/Fonts/Bangla/Kalpana"
+                },
+                {
+                    "name": "Kalpana UNICODE.ttf",
+                    "sha256": "ba1ecabd518b46d5ac16a77648420b410ee547f6193974820b458a4a4e3410eb",
+                    "size": 229880,
+                    "path": "/ThirdParty/Fonts/Bangla/Kalpana"
+                },
+                {
+                    "name": "Sohid Osman Hadi.ttf",
+                    "sha256": "3d8ec6a8ffc973859a19b76eab9111bf2b666303d6e26ef162b73325b9f93f6e",
+                    "size": 85672,
+                    "path": "/ThirdParty/Fonts/Bangla/Sohid Osman Hadi"
+                },
+                {
+                    "name": "Sohid Osman Hadi.ttf",
+                    "sha256": "3d8ec6a8ffc973859a19b76eab9111bf2b666303d6e26ef162b73325b9f93f6e",
+                    "size": 85672,
+                    "path": "/ThirdParty/Fonts/Bangla/Sohid Osman Hadi/Sohid Osman Hadi/Sohid Osman Hadi"
+                },
+                {
+                    "name": "Blossom Sakura Demo.otf",
+                    "sha256": "5f815a4f94a0977eaf7f774d8af409c286415404f8fe11b1f8076dca84ca58bf",
+                    "size": 142488,
+                    "path": "/ThirdParty/Fonts/Chinese/blossom_sakura"
+                },
+                {
+                    "name": "ChineseBrush.ttf",
+                    "sha256": "d181970c79413c1a471cf17616a329507ebd8ab82848e10622f5e36f15fadd01",
+                    "size": 36484,
+                    "path": "/ThirdParty/Fonts/Chinese/chinese_brush"
+                },
+                {
+                    "name": "ChineseKaraoke.ttf",
+                    "sha256": "35b7599590538362b3a86abf89e065d3cc4815164bb2a925427e63b44bdb2c9f",
+                    "size": 38140,
+                    "path": "/ThirdParty/Fonts/Chinese/chinese_karaoke"
+                },
+                {
+                    "name": "Eastern Brush.ttf",
+                    "sha256": "bc940b4670fcea62c99fced6a4728c10e073de9f62f50d5e02d345be3dafe48a",
+                    "size": 53204,
+                    "path": "/ThirdParty/Fonts/Chinese/eastern_brush"
+                },
+                {
+                    "name": "go3v2.ttf",
+                    "sha256": "8bb0d23e78dc94851b86732c28b9e0da1724893ba9301483bfdfcea50c19fac4",
+                    "size": 21872,
+                    "path": "/ThirdParty/Fonts/Chinese/gang_of_three"
+                },
+                {
+                    "name": "GBShinto-Regular.otf",
+                    "sha256": "ed3b95e2ee08cb7030ef1db761b31aeafaa6ded1d473a3de15a68f03c1701c22",
+                    "size": 42612,
+                    "path": "/ThirdParty/Fonts/Chinese/gb_shinto"
+                },
+                {
+                    "name": "Harukaze.otf",
+                    "sha256": "c08d050917861f86bacec2cec3329ed0cbb808179b3f16bd8584734b828bf10e",
+                    "size": 56212,
+                    "path": "/ThirdParty/Fonts/Chinese/harukaze"
+                },
+                {
+                    "name": "Harukaze.ttf",
+                    "sha256": "adae2219009721ba2e72f6f9368d8850efbcac5c135eb2b9ff23ba7a54d77bb5",
+                    "size": 106836,
+                    "path": "/ThirdParty/Fonts/Chinese/harukaze"
+                },
+                {
+                    "name": "Hoshiko Satsuki.ttf",
+                    "sha256": "d57a701c99b2a55ea12fc932146a4429ed98c039a7b513a968f98f17117b6edc",
+                    "size": 129736,
+                    "path": "/ThirdParty/Fonts/Chinese/hoshiko_satsuki"
+                },
+                {
+                    "name": "Japanese 3017.otf",
+                    "sha256": "329138b088755f4da82993197cbc9436050dc117dd826b5829f8c90637984bd4",
+                    "size": 10488,
+                    "path": "/ThirdParty/Fonts/Chinese/japanese_3017"
+                },
+                {
+                    "name": "Japanese 3017.ttf",
+                    "sha256": "8b37d564448b0155789ef5d5bc45b1f9409bffee44abc703e05f73fd81a6ca63",
+                    "size": 10488,
+                    "path": "/ThirdParty/Fonts/Chinese/japanese_3017"
+                },
+                {
+                    "name": "Japan wave.ttf",
+                    "sha256": "fb703647638e857ca1ff11d991173e30fd8d3e2a3e1ec06b94a87922d2085eb4",
+                    "size": 94156,
+                    "path": "/ThirdParty/Fonts/Chinese/japan_wave"
+                },
+                {
+                    "name": "Karate.ttf",
+                    "sha256": "6f409faab88a9ead73fcb6a4d557719abd5944412b10f30970e056ec2ea373cd",
+                    "size": 20664,
+                    "path": "/ThirdParty/Fonts/Chinese/karate"
+                },
+                {
+                    "name": "NUGS Project Khiara Script.otf",
+                    "sha256": "d878e2ef52289f939f3c900f41235a32a97a8d31f34e3dfc7c42b96c88c2e2eb",
+                    "size": 72716,
+                    "path": "/ThirdParty/Fonts/Chinese/khiara_script"
+                },
+                {
+                    "name": "NUGS Project Khiara Script.ttf",
+                    "sha256": "00f9eef913f0cb98481e26f78354cc9eea83a30454b64d3fc016ef5cf707631d",
+                    "size": 104336,
+                    "path": "/ThirdParty/Fonts/Chinese/khiara_script"
+                },
+                {
+                    "name": "© 2020 NUGS Project Khiara Script.otf",
+                    "sha256": "d878e2ef52289f939f3c900f41235a32a97a8d31f34e3dfc7c42b96c88c2e2eb",
+                    "size": 72716,
+                    "path": "/ThirdParty/Fonts/Chinese/khiara_script"
+                },
+                {
+                    "name": "© 2020 NUGS Project Khiara Script.ttf",
+                    "sha256": "00f9eef913f0cb98481e26f78354cc9eea83a30454b64d3fc016ef5cf707631d",
+                    "size": 104336,
+                    "path": "/ThirdParty/Fonts/Chinese/khiara_script"
+                },
+                {
+                    "name": "Korean_Calligraphy.ttf",
+                    "sha256": "55bf27419e7d9565ab78a1a4078b9c8971519cb9dfab46998d0c82f5f570de4c",
+                    "size": 26644,
+                    "path": "/ThirdParty/Fonts/Chinese/korean_calligraphy"
+                },
+                {
+                    "name": "Manga Style.ttf",
+                    "sha256": "6fb772a4e16599658024d72340ffa32030ba3534922bdbf387f263ce54960bbc",
+                    "size": 48180,
+                    "path": "/ThirdParty/Fonts/Chinese/manga_style"
+                },
+                {
+                    "name": "Ming Imperial.TTF",
+                    "sha256": "1a130885d359524392db7cf491f345571682ed2b88c5afee6b1002b63939b97d",
+                    "size": 37144,
+                    "path": "/ThirdParty/Fonts/Chinese/ming_imperial"
+                },
+                {
+                    "name": "ModernTokyo-Bold.ttf",
+                    "sha256": "39e551a5249e2332252270b2da465449aaa727706257003478ee964271d2733c",
+                    "size": 32096,
+                    "path": "/ThirdParty/Fonts/Chinese/modern_tokyo"
+                },
+                {
+                    "name": "ModernTokyo.ttf",
+                    "sha256": "334f945b4081031d0e2781353cd89d3ac7a939f71b611933b19091a50d00691c",
+                    "size": 36844,
+                    "path": "/ThirdParty/Fonts/Chinese/modern_tokyo"
+                },
+                {
+                    "name": "OnsenJapanDemoRegular.ttf",
+                    "sha256": "ef16eaad28abb2f6f7fdb7bafefcc260294ee490f4e192a083022214a935d6cb",
+                    "size": 466232,
+                    "path": "/ThirdParty/Fonts/Chinese/onsen_japan"
+                },
+                {
+                    "name": "Oriental Chicken.ttf",
+                    "sha256": "bddfabb84f73f2d6a27193d4e5015f6ff3a2a2f7b89f6d79a405e8fe6ad3b186",
+                    "size": 50316,
+                    "path": "/ThirdParty/Fonts/Chinese/oriental_chicken"
+                },
+                {
+                    "name": "osaka-re.ttf",
+                    "sha256": "79f10ac3196dcdb5925504315c648cab9df286994da4f8d49156e016d01f5d4d",
+                    "size": 12484,
+                    "path": "/ThirdParty/Fonts/Chinese/osaka_sans_serif"
+                },
+                {
+                    "name": "SAKUNA.ttf",
+                    "sha256": "b92343f3652ea73d5c453f25792355ce3958207ad8bac64fa2973521c09fc4f1",
+                    "size": 24836,
+                    "path": "/ThirdParty/Fonts/Chinese/sakuna"
+                },
+                {
+                    "name": "Shizuoka Cyberpunk.otf",
+                    "sha256": "19b408f8f32e19ec947e0b0e233a237b45a050a4e5b35163840b95a2f3d2a925",
+                    "size": 75724,
+                    "path": "/ThirdParty/Fonts/Chinese/shizuoka_cyberpunk"
+                },
+                {
+                    "name": "Sigokae Demo.otf",
+                    "sha256": "d92c768d61715d937820a65d327f135ed371ec5b08d34367d8851a98509ceb03",
+                    "size": 1409980,
+                    "path": "/ThirdParty/Fonts/Chinese/sigokae"
+                },
+                {
+                    "name": "Sigokae Demo.ttf",
+                    "sha256": "b1a1219dad7b31b9e1985cb3140c39dd4c5033c925f81b2fec93cadb40f3025d",
+                    "size": 1409980,
+                    "path": "/ThirdParty/Fonts/Chinese/sigokae"
+                },
+                {
+                    "name": "Spell of Asia.ttf",
+                    "sha256": "636dd09a5601b70dda010b8d9875449f60d4b6fac43898b77fe9d26b886a158f",
+                    "size": 56512,
+                    "path": "/ThirdParty/Fonts/Chinese/spell_of_asia"
+                },
+                {
+                    "name": "The Last Shuriken.otf",
+                    "sha256": "bf3a2874a4bf848bb7ea1ce9e5ba0b804dffd7e62ef9aa0a7a7165e974f6bec1",
+                    "size": 17140,
+                    "path": "/ThirdParty/Fonts/Chinese/the_last_shuriken"
+                },
+                {
+                    "name": "The Last Shuriken.ttf",
+                    "sha256": "9edd03523accde78f242620d44c450876b6450eb4dd0c7293bbc1bc821bf1f4e",
+                    "size": 28716,
+                    "path": "/ThirdParty/Fonts/Chinese/the_last_shuriken"
+                },
+                {
+                    "name": "Zenzai Itacha.ttf",
+                    "sha256": "7ac3e95a20aca3ac550e5f4eb9f76c2ad2c4d54d2fc5d6174133924bc103c5a2",
+                    "size": 161796,
+                    "path": "/ThirdParty/Fonts/Chinese/zenzai_itacha"
+                },
+                {
+                    "name": "Zenzai Itache.ttf",
+                    "sha256": "0d47a0844200ca9c06e7c683ae739e3ff33237412d46395c2afd66f43d0581ab",
+                    "size": 226444,
+                    "path": "/ThirdParty/Fonts/Chinese/zenzai_itacha"
+                },
+                {
+                    "name": "Zenzai Itachi.ttf",
+                    "sha256": "b01af963562de57bae556e178b5bd07a7a0770211ac5b146612d27ac61b850aa",
+                    "size": 30404,
+                    "path": "/ThirdParty/Fonts/Chinese/zenzai_itacha"
+                },
+                {
+                    "name": "aAnotherTag.otf",
+                    "sha256": "50773f0dfd573edb76f8b8834cf6476419fd53d74b63b5fb2181a4584f35772d",
+                    "size": 17288,
+                    "path": "/ThirdParty/Fonts/English/a_another_tag"
+                },
+                {
+                    "name": "aAnotherTag.ttf",
+                    "sha256": "9622fe2e1c0c4a72ad9038d340f8933345d6c77bbe029c4ae644defddcebe50d",
+                    "size": 24224,
+                    "path": "/ThirdParty/Fonts/English/a_another_tag"
+                },
+                {
+                    "name": "Bauhaus Bernard 1926-Black.ttf",
+                    "sha256": "93f611acb8bd52ea9c0186ff30402fe29a8e2ada6a484e5f6b1a2972db2ed451",
+                    "size": 536520,
+                    "path": "/ThirdParty/Fonts/English/bauhaus_bernard_1926"
+                },
+                {
+                    "name": "Bauhaus Bernard 1926-Bold.ttf",
+                    "sha256": "e2f4c1d472eaa17c26e6c7c6d997938ab2971e0314b7a8eb195466c13fb2ed4c",
+                    "size": 536644,
+                    "path": "/ThirdParty/Fonts/English/bauhaus_bernard_1926"
+                },
+                {
+                    "name": "Bauhaus Bernard 1926-Light.ttf",
+                    "sha256": "f23f4856f0c5f2b434e7242dcbb75e161739eb11086b6e07967d8236698b8242",
+                    "size": 536648,
+                    "path": "/ThirdParty/Fonts/English/bauhaus_bernard_1926"
+                },
+                {
+                    "name": "Bauhaus Bernard 1926-Normal.ttf",
+                    "sha256": "544db74183ef9bdf60d004310162a84fc100ec6d8d2166b3af96896f8f83c161",
+                    "size": 536652,
+                    "path": "/ThirdParty/Fonts/English/bauhaus_bernard_1926"
+                },
+                {
+                    "name": "Bauhaus Bernard 1926-Thin.ttf",
+                    "sha256": "ef5cc51b7740037e1a92db09e9a6b12c5ebb183c0a7df442360bbd7efa8f957e",
+                    "size": 536644,
+                    "path": "/ThirdParty/Fonts/English/bauhaus_bernard_1926"
+                },
+                {
+                    "name": "Childer.otf",
+                    "sha256": "6ba960578f564e0d7e710c2c1854cb0068365dd88f8deedf88742bf5acaa089a",
+                    "size": 298492,
+                    "path": "/ThirdParty/Fonts/English/childer"
+                },
+                {
+                    "name": "Coconut Island.otf",
+                    "sha256": "bfd7278a8cd2c421d26805020801c98e6e1bc4ac5a2aa05bd03643fb9a01a793",
+                    "size": 93064,
+                    "path": "/ThirdParty/Fonts/English/coconut_island_2"
+                },
+                {
+                    "name": "Coconut Island.ttf",
+                    "sha256": "c6f2bc5b4294a1194555186a6f1c7f2caad8c153698acba0de1779de31fb1129",
+                    "size": 30192,
+                    "path": "/ThirdParty/Fonts/English/coconut_island_2"
+                },
+                {
+                    "name": "DOCALLISME ON STREET.ttf",
+                    "sha256": "e8f0bbce8d7e974c9cae3f6d37c81822de576425f7c0b240075fc4ef9af696c8",
+                    "size": 173180,
+                    "path": "/ThirdParty/Fonts/English/docallisme_on_street"
+                },
+                {
+                    "name": "docallismeonstreet.otf",
+                    "sha256": "6d459b6cf991ae303d71d6cd3b9cc84a34833d838a8d065cf92a3efc4f8a335d",
+                    "size": 54848,
+                    "path": "/ThirdParty/Fonts/English/docallisme_on_street"
+                },
+                {
+                    "name": "Freaky Ghost.otf",
+                    "sha256": "40900e053f971851c4354209a719995159bbe5fbc857c046e5de6849d3d66911",
+                    "size": 181308,
+                    "path": "/ThirdParty/Fonts/English/freaky-ghost"
+                },
+                {
+                    "name": "game_over.ttf",
+                    "sha256": "05fb4ef61c77c30e8d2ff12d113c1a8987d385793bd2e40e3432c5f45419aa4c",
+                    "size": 19164,
+                    "path": "/ThirdParty/Fonts/English/game_over"
+                },
+                {
+                    "name": "freefontsfamily.com.txt",
+                    "sha256": "6c7c6520e8e06cf107641c5909e8d932d87ba2dbf9e671b43eccb13deacd2e63",
+                    "size": 60,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-Black.otf",
+                    "sha256": "0826047154e04ac9b85a0369e2654594aa3211ad757f604ac848071da8069786",
+                    "size": 30608,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-Bold.otf",
+                    "sha256": "d7766b0c71e2ef4fd5d4238b8dca14425051ecc7729459bc9c7eeac915909a0f",
+                    "size": 30012,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-BookItalic.otf",
+                    "sha256": "a7fc427ff179e66e7c373b48fef6040528bcfe20f99dddc59bd0a4de033a98b2",
+                    "size": 31068,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-Light.otf",
+                    "sha256": "059d87195ac799babfa43fc443028f8dfbfec34e0887f69999b63610ec9a3631",
+                    "size": 29656,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-Thin.otf",
+                    "sha256": "80cc8ef5083239b68a12bff0d34ce0fd015791a72ef9c173417edc29d95da6e8",
+                    "size": 30412,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-ThinItalic.otf",
+                    "sha256": "cb776d9e93ea04822ab2c828087e2007e2a488662f498cf1238affc93d2c5739",
+                    "size": 32720,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-UltraItalic.otf",
+                    "sha256": "6bec80c774c2e7b1a3c1bbe638bc00b0b11734444bcba48712357143b15bcc96",
+                    "size": 31504,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-XLight.otf",
+                    "sha256": "990c214996948c053291097269fe473bce20da0edb9fdc94b5f9fc0007f6a4b8",
+                    "size": 30444,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "Gotham-XLightItalic.otf",
+                    "sha256": "2c45e74cce9fe81665e6c2bb3c73c6c2f053b61c50bc60093882e36116b63bb0",
+                    "size": 32124,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamBold.ttf",
+                    "sha256": "50792d8e48ef25fb34eafc77277490c729745105f27fcc009fb072ab6a089ceb",
+                    "size": 45744,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamBoldItalic.ttf",
+                    "sha256": "6662c90fea66cedddffc4ec3743a18caf0d871681371191c60952a20a01c28a9",
+                    "size": 43928,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamBook.ttf",
+                    "sha256": "742359d475131a75ff057224151c7b384ef0b89556212709a5e34a9409983876",
+                    "size": 56676,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamBookItalic.ttf",
+                    "sha256": "146a482367548fd99d70c7c9a89a79b49f6e7c3f00791ade68737f2b577ea20f",
+                    "size": 44136,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamLight.ttf",
+                    "sha256": "463c6bc3f79f2bed4ca2415571b2ea04a8de79b8359c2542bc8dba424fff0069",
+                    "size": 56508,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamLightItalic.ttf",
+                    "sha256": "eb2f8648ac173aeb2a32baec727bd4f0a5c2fd84f1882d05649040c2181f2fda",
+                    "size": 44364,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamMedium.ttf",
+                    "sha256": "b5b3eb8e443fe9e3976dedaa2650d68d37d992c4e4e2e7676674a1f3027e2a41",
+                    "size": 55980,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamMediumItalic.ttf",
+                    "sha256": "8a3af9bdcf7106412eb3df38275237f69aed8eb6d1d4fd647bb8312fec8d464f",
+                    "size": 54500,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GothamMedium_1.ttf",
+                    "sha256": "b5b3eb8e443fe9e3976dedaa2650d68d37d992c4e4e2e7676674a1f3027e2a41",
+                    "size": 55980,
+                    "path": "/ThirdParty/Fonts/English/Gotham-Font/Gotham-Font"
+                },
+                {
+                    "name": "GraffitiYouth-Regular.otf",
+                    "sha256": "03c9132afa7102d44f15e7bb89b872380ac35bbb3a28049cab1ddc4e6901bf05",
+                    "size": 40824,
+                    "path": "/ThirdParty/Fonts/English/graffiti_youth"
+                },
+                {
+                    "name": "Heart Blues.otf",
+                    "sha256": "7e72f45e9bf5036d52864609993c852dc2c32a2b2528c022cdca4e4b9adffe3f",
+                    "size": 56104,
+                    "path": "/ThirdParty/Fonts/English/heart-blues"
+                },
+                {
+                    "name": "Heart Blues.ttf",
+                    "sha256": "31592b249271bc3513dc52c2ff710bf267c71a02d6e76d4f7626274b9f3d9e10",
+                    "size": 123996,
+                    "path": "/ThirdParty/Fonts/English/heart-blues"
+                },
+                {
+                    "name": "Jraot-Extrude.ttf",
+                    "sha256": "922c0bab40fa5a7292c2ff5c283e4bdb330d5a83bf4ce2caa70b5a9146236dad",
+                    "size": 58880,
+                    "path": "/ThirdParty/Fonts/English/jraot"
+                },
+                {
+                    "name": "Jraot-Hollow.ttf",
+                    "sha256": "2aa8a6371a2b5705b4dc8b0c25994b7dab05a7d404557a533e7404013991fd05",
+                    "size": 110472,
+                    "path": "/ThirdParty/Fonts/English/jraot"
+                },
+                {
+                    "name": "Jraot-Outline.ttf",
+                    "sha256": "ed39e1abcc909a29e1210619b107c49f326350e80f4edc058674bbece0bce8fa",
+                    "size": 86128,
+                    "path": "/ThirdParty/Fonts/English/jraot"
+                },
+                {
+                    "name": "Jraot-Regular.ttf",
+                    "sha256": "3142da507a3b38265d35bee695efab50220ea1e7b4e29d8632e6e33fade9f4ee",
+                    "size": 62324,
+                    "path": "/ThirdParty/Fonts/English/jraot"
+                },
+                {
+                    "name": "KOMIKAX_.ttf",
+                    "sha256": "d2c790c5ce96e4453ab7ea2d17f8c71db06cec3d3ab4f7f98db02955e63ab353",
+                    "size": 53996,
+                    "path": "/ThirdParty/Fonts/English/komika_axis"
+                },
+                {
+                    "name": "Lipishree ANSI.ttf",
+                    "sha256": "6b57a525183fa8760f75bc5bf8ec95bfbefcb05e0462202023540b744ae012c4",
+                    "size": 57188,
+                    "path": "/ThirdParty/Fonts/English/Lipishree"
+                },
+                {
+                    "name": "Lipishree Unicode.ttf",
+                    "sha256": "afe533ab25f538d3a39ec2f2c70cad046f3ac5d4804b7e6e35807f8bc3249e28",
+                    "size": 114948,
+                    "path": "/ThirdParty/Fonts/English/Lipishree"
+                },
+                {
+                    "name": "Next Ups Black.ttf",
+                    "sha256": "135b254b32698160ebd80f05be6b1fe2d0706fbba128cbcd7e2168420064fd5f",
+                    "size": 10924,
+                    "path": "/ThirdParty/Fonts/English/next_ups"
+                },
+                {
+                    "name": "Next Ups.ttf",
+                    "sha256": "cd1723b21f1e649492a2f90c53555171e21f9601d344e87d5cc7f1a981e724df",
+                    "size": 17928,
+                    "path": "/ThirdParty/Fonts/English/next_ups"
+                },
+                {
+                    "name": "Important Information About This Font !! Please Read Me !! (Ditatype) - Copy.pdf",
+                    "sha256": "7d72f3bd4cf413a66229ef1e16077510fb40e6564618fd1a9b8a5c8fed953fbe",
+                    "size": 421270,
+                    "path": "/ThirdParty/Fonts/English/pixel_gamer"
+                },
+                {
+                    "name": "PixelGamer-Regular.otf",
+                    "sha256": "1e6e80116ed5c57500342ebec42807bbe56c8f314d989e32890568c017388ed1",
+                    "size": 96808,
+                    "path": "/ThirdParty/Fonts/English/pixel_gamer"
+                },
+                {
+                    "name": "Eula O10 Bott.pdf",
+                    "sha256": "17c6cfb3da668355ed63eef981ec35c2a92d9cfb916f52b97a28edfcd540e369",
+                    "size": 462546,
+                    "path": "/ThirdParty/Fonts/English/pixel_o10_bott"
+                },
+                {
+                    "name": "PixelO10Bott-Regular.ttf",
+                    "sha256": "b74d8e6ba7b3d12da8ffac4cb7893f1e910c1ff9dd1eb31bb11fc276839d1bd3",
+                    "size": 193980,
+                    "path": "/ThirdParty/Fonts/English/pixel_o10_bott"
+                },
+                {
+                    "name": "Smasher 312 Custom.ttf",
+                    "sha256": "5289bb976f29a276d94ecc814d8827c4b0909c786165816b24506896a575df5c",
+                    "size": 162876,
+                    "path": "/ThirdParty/Fonts/English/smasher_312_custom"
+                },
+                {
+                    "name": "Super Pixel Personal Use.ttf",
+                    "sha256": "6c93604b415ce929ec04d6865faead18a1ea508803a0f715ee12c4dada9b16a9",
+                    "size": 66716,
+                    "path": "/ThirdParty/Fonts/English/super_pixel"
+                },
+                {
+                    "name": "Li Tousumi.ttf",
+                    "sha256": "31374bad3db8f98e4498ffd2940ae976642e385a5b1c236d00688c1b6e68b1e1",
+                    "size": 276352,
+                    "path": "/ThirdParty/Fonts/English/Tousumi"
+                },
+                {
+                    "name": "DIMIS___.TTF",
+                    "sha256": "0dce9671e258eefd69623ea9a9b9d3bcb980183d4905c7946daf9443587d3a4e",
+                    "size": 32136,
+                    "path": "/ThirdParty/Fonts/English/Twitch-Font"
+                },
+                {
+                    "name": "DIMITRI_.TTF",
+                    "sha256": "39b1ba451445b73ebb992afdd2438100879c73a2c0b044737f6419629037aeb9",
+                    "size": 24424,
+                    "path": "/ThirdParty/Fonts/English/Twitch-Font"
+                },
+                {
+                    "name": "info.txt",
+                    "sha256": "65a1e97722d1af205571afa0a499c32b8266cccf7a311fc8cf0f64f77814a09d",
+                    "size": 93,
+                    "path": "/ThirdParty/Fonts/English/youth-touch-font"
+                },
+                {
+                    "name": "YouthTouchDemoRegular-4VwY.ttf",
+                    "sha256": "bfcc2ca3d1d84f4e514d9216311300ddc076d925fcca703479d0c155e18c9391",
+                    "size": 176784,
+                    "path": "/ThirdParty/Fonts/English/youth-touch-font"
+                }
+            ]
+        },
+        {
+            "name": "Video.zip",
+            "folder": "Video",
+            "sha256": "512b91406d4f4cc8ccb79698b0d7a95cb4bd9006b99e348a4338191b583ec579",
+            "download": "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Video.zip",
+            "path": "/ThirdParty",
+            "fileCount": 2,
+            "totalSize": 32346386,
+            "contents": [
+                {
+                    "name": "5849609-hd_1920_1080_30fps.mp4",
+                    "sha256": "3012b30896f146b3e889899e56da2aa3c63ff18a1aa17d79238110e48640920f",
+                    "size": 3237442,
+                    "path": "/ThirdParty/Video"
+                },
+                {
+                    "name": "8150514-uhd_3840_2160_24fps.mp4",
+                    "sha256": "070acbf02d0770dfde73612ae192ff7d62d67fe2011d20681fbd81ede7ab9b35",
+                    "size": 29108944,
+                    "path": "/ThirdParty/Video"
+                }
+            ]
+        }
+    ],
+    "files": [
+        {
+            "name": "Audio.zip",
+            "sha256": "b385938d702a3393b5e746b02952db1fd9a34b1eafa5859b46b39cd6b26446ae",
+            "download": "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Audio.zip",
+            "path": "/ThirdParty"
+        },
+        {
+            "name": "Fonts.zip",
+            "sha256": "97e11268a0bc3cb5abd0674212aa0c380442321db568a865606a770b7d06d7fc",
+            "download": "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Fonts.zip",
+            "path": "/ThirdParty"
+        },
+        {
+            "name": "Video.zip",
+            "sha256": "512b91406d4f4cc8ccb79698b0d7a95cb4bd9006b99e348a4338191b583ec579",
+            "download": "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Video.zip",
+            "path": "/ThirdParty"
+        }
+    ]
+}

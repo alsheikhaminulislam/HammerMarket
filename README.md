@@ -38,21 +38,7 @@ Built with a hyper-optimized **C++20 native video composition core**, **FFmpeg 7
 - Native Windows **DirectWrite text engine** for crisp vector text rendering at any resolution.
 - Dynamic title templates, lower thirds, custom subtitles, and animated captions.
 
----
-
-## 📊 Technical Architecture
-
-```mermaid
-graph TD
-    UI["Frontend Interface (React / WebView2)"] -->|JSON RPC Bridge| Native["C++20 Native Core"]
-    Native -->|Hardware Decoding| Codec["FFmpeg 7.0 (NVENC / AMF / QSV)"]
-    Native -->|DirectWrite FX| Render["GPU Frame Compositor"]
-    Native -->|Sample Sync| Audio["Audio Timeline Mixer"]
-    Render --> Export["Fast 4K MP4 / MOV Output"]
-    Audio --> Export
-```
-
----
+--- 
 
 ## 💻 System Requirements
 
@@ -69,9 +55,7 @@ graph TD
 
 ## 🌐 Official Download & Links
 
-- **Official Website**: [https://xcut.outgrave.com/](https://xcut.outgrave.com/)
-- **Documentation**: [https://xcut.outgrave.com/docs](https://xcut.outgrave.com/)
-- **Release Notes**: [https://xcut.outgrave.com/releases](https://xcut.outgrave.com/)
+- **Official Website**: [https://xcut.outgrave.com/](https://xcut.outgrave.com/) 
 
 ---
 

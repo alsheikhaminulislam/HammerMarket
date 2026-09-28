@@ -1,12 +1,12 @@
 ﻿{
-    "generatedAt":  "2026-09-28T22:47:02.2174012+06:00",
-    "baseUrl":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty",
+    "generatedAt":  "2026-09-28T23:04:36.8964740+06:00",
+    "baseUrl":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty",
     "archives":  [
                      {
                          "name":  "Audio.zip",
                          "folder":  "Audio",
                          "sha256":  "b385938d702a3393b5e746b02952db1fd9a34b1eafa5859b46b39cd6b26446ae",
-                         "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Audio.zip",
+                         "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Audio.zip",
                          "path":  "/ThirdParty",
                          "fileCount":  8,
                          "totalSize":  2749553,
@@ -65,7 +65,7 @@
                          "name":  "Fonts.zip",
                          "folder":  "Fonts",
                          "sha256":  "97e11268a0bc3cb5abd0674212aa0c380442321db568a865606a770b7d06d7fc",
-                         "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Fonts.zip",
+                         "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Fonts.zip",
                          "path":  "/ThirdParty",
                          "fileCount":  185,
                          "totalSize":  31567853,
@@ -1186,7 +1186,7 @@
                          "name":  "Video.zip",
                          "folder":  "Video",
                          "sha256":  "512b91406d4f4cc8ccb79698b0d7a95cb4bd9006b99e348a4338191b583ec579",
-                         "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Video.zip",
+                         "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Video.zip",
                          "path":  "/ThirdParty",
                          "fileCount":  2,
                          "totalSize":  32346386,
@@ -1210,19 +1210,19 @@
                   {
                       "name":  "Audio.zip",
                       "sha256":  "b385938d702a3393b5e746b02952db1fd9a34b1eafa5859b46b39cd6b26446ae",
-                      "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Audio.zip",
+                      "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Audio.zip",
                       "path":  "/ThirdParty"
                   },
                   {
                       "name":  "Fonts.zip",
                       "sha256":  "97e11268a0bc3cb5abd0674212aa0c380442321db568a865606a770b7d06d7fc",
-                      "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Fonts.zip",
+                      "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Fonts.zip",
                       "path":  "/ThirdParty"
                   },
                   {
                       "name":  "Video.zip",
                       "sha256":  "512b91406d4f4cc8ccb79698b0d7a95cb4bd9006b99e348a4338191b583ec579",
-                      "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Video.zip",
+                      "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Video.zip",
                       "path":  "/ThirdParty"
                   }
               ]

@@ -2,92 +2,98 @@
     {
         "name":  "avcodec-63.dll",
         "sha256":  "c0ea765161362efed36ed813a42caafef49033e1b97f66dab7c8db3d2fd58694",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/avcodec-63.dll",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/avcodec-63.dll",
         "path":  "/"
     },
     {
         "name":  "avdevice-63.dll",
         "sha256":  "6bdde9235364dd1339f01d5d4ea749ccc4849b52efae4f63c0a678e89fc829c3",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/avdevice-63.dll",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/avdevice-63.dll",
         "path":  "/"
     },
     {
         "name":  "avfilter-12.dll",
         "sha256":  "9549b93fd3e0ffa0df91d8b808bdaa62497f508e17e01cd8227a21677642e0f7",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/avfilter-12.dll",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/avfilter-12.dll",
         "path":  "/"
     },
     {
         "name":  "avformat-63.dll",
         "sha256":  "70be8727dcb80dfccc52f8ae75cdd34a1c28a3a4b3582baa8d259687495ef650",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/avformat-63.dll",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/avformat-63.dll",
         "path":  "/"
     },
     {
         "name":  "avutil-61.dll",
         "sha256":  "20b6bdb77f557293b7b77bd1bcec31eb205c5652da28ded7ce992beff963e10a",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/avutil-61.dll",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/avutil-61.dll",
         "path":  "/"
     },
     {
         "name":  "ffmpeg.exe",
         "sha256":  "b3d3172b68fa95b30354187253d6ae5771c4bb7249c8d44e2d2eb297b1debf25",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ffmpeg.exe",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ffmpeg.exe",
         "path":  "/"
     },
     {
         "name":  "ffplay.exe",
         "sha256":  "5a00e9e6f5812e0b925be39d76d79229ca1535cf9894be9ef84a623135d65db8",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ffplay.exe",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ffplay.exe",
         "path":  "/"
     },
     {
         "name":  "ffprobe.exe",
         "sha256":  "83b4ead6be064d0e9f7d36209c21cd0d8d4c1b4ed6dea988812db9e6d172eb84",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ffprobe.exe",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ffprobe.exe",
+        "path":  "/"
+    },
+    {
+        "name":  "README.md",
+        "sha256":  "69ef5abfdbbaaa78a06b9e38a0ba5a15c0d307a3ccaec0be5f2b6c0c289bb95e",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/README.md",
         "path":  "/"
     },
     {
         "name":  "swresample-7.dll",
         "sha256":  "9ee3db1da4355f004deb9ba87336d4101c409fb4ffdf18d284223c1aebd257f6",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/swresample-7.dll",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/swresample-7.dll",
         "path":  "/"
     },
     {
         "name":  "swscale-10.dll",
         "sha256":  "333cfe442fb27477513579914730eb8676709d41e6f01fb62853469514bef84f",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/swscale-10.dll",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/swscale-10.dll",
         "path":  "/"
     },
     {
         "name":  "WebView2Loader.dll",
         "sha256":  "cfdca75475b4a15faf1a5650e59e9f4c0a3c0b275dd3732bdfe14051acb34a58",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/WebView2Loader.dll",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/WebView2Loader.dll",
         "path":  "/"
     },
     {
         "launcher":  true,
         "name":  "X-CUT.exe",
         "sha256":  "dc1ad73c5ebca3441ba5e98435f7a3cd94b34ea89ba000b6b354d6cf55f53268",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/X-CUT.exe",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/X-CUT.exe",
         "path":  "/"
     },
     {
         "name":  "Audio.zip",
         "sha256":  "b385938d702a3393b5e746b02952db1fd9a34b1eafa5859b46b39cd6b26446ae",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Audio.zip",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Audio.zip",
         "path":  "/ThirdParty"
     },
     {
         "name":  "Fonts.zip",
         "sha256":  "97e11268a0bc3cb5abd0674212aa0c380442321db568a865606a770b7d06d7fc",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Fonts.zip",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Fonts.zip",
         "path":  "/ThirdParty"
     },
     {
         "name":  "Video.zip",
         "sha256":  "512b91406d4f4cc8ccb79698b0d7a95cb4bd9006b99e348a4338191b583ec579",
-        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/XCUT/ThirdParty/Video.zip",
+        "download":  "https://github.com/alsheikhaminulislam/HammerMarket/raw/refs/heads/X-CUT/ThirdParty/Video.zip",
         "path":  "/ThirdParty"
     }
 ]
